@@ -1,0 +1,21 @@
+# ninja log v5
+2	58	7364808966640254	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	5a3dae17464bdc8d
+2	58	7364808966640254	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	5a3dae17464bdc8d
+59	21489	7364809180953103	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	5c340bc83ddf1333
+59	21489	7364809180953103	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	5c340bc83ddf1333
+21561	21715	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	5c48c7714d4b7cf4
+21561	21715	0	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	5c48c7714d4b7cf4
+21715	21762	7364809183684507	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	5e8fccd0eb14df2e
+21715	21762	7364809183684507	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	5e8fccd0eb14df2e
+21762	21809	7364809184158278	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1273590af932bc24
+21762	21809	7364809184158278	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1273590af932bc24
+21809	21856	7364809184619380	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	b264f550f1c97ca
+21809	21856	7364809184619380	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	b264f550f1c97ca
+21856	21903	7364809185096040	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	837af5a8d9d397e6
+21856	21903	7364809185096040	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	837af5a8d9d397e6
+21903	21950	7364809185568088	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	89105f11f23ea235
+21903	21950	7364809185568088	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	89105f11f23ea235
+21950	22014	7364809186203427	CMakeFiles/sfml-populate-complete	63a051524050cf2e
+21950	22014	7364809186203427	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	63a051524050cf2e
+21950	22014	7364809186203427	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	63a051524050cf2e
+21950	22014	7364809186203427	C:/Users/lordo/OneDrive/Masaüstü/C++/Projects/T-Rex Clone SFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	63a051524050cf2e
